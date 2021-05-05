@@ -1,0 +1,18 @@
+body{
+    background:linear-gradient(red 0%, blue 100%);
+    text-align:center;
+}
+img{
+    height:350px;
+    margin:40px;
+    border:4px solid yellowgreen ;
+    opacity:.8;
+}
+h1{
+    color:rgb(1, 34, 1);
+    font-size: 40px;
+}
+p{
+    font-size:large;
+    color:tomato;
+}
